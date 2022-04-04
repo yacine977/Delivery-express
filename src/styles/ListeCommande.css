@@ -1,0 +1,44 @@
+.page-liste-commande {
+    
+    background:   
+     center center / 400px 200px, no-repeat  ,
+  url(../assets/ariere-plan-commande.jpg);
+    
+}
+
+
+h2 {
+
+    color:white;
+    padding-left: 50px;
+}
+
+.button-prete {
+
+    text-align: center;
+	border-radius: 10px;
+	width: 120px;
+	height: 30px;
+	font-weight: bold;
+	margin: 5px;
+
+}
+
+
+.titre-commande-a-faire  {
+
+background-color: white;
+color: black;
+height: 200px;
+
+
+}
+
+
+.titre-commande-a-faire h2 {
+
+color: black;
+padding: 70px;
+font-size: 28px;
+
+}

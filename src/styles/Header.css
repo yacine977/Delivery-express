@@ -1,0 +1,73 @@
+
+
+.lmj-header {
+    color:white;
+    text-align: left;
+    padding: 32px;
+    border-bottom: solid 3px black;
+    background-color:white;
+    background:   
+     center center / 400px 200px no-repeat,
+  url(../assets/ariere-plan-form.jpg);    
+    
+}
+
+.slogon {
+
+
+color: black;
+
+border: solid 2px black;
+border-radius: 10px;
+height: 70px;
+width: 1050px;
+margin: 10px;
+background-color: yellowgreen;
+
+
+}
+
+h1 {
+    font-size: 3.3rem;
+   
+    letter-spacing: 2px;
+    
+  }
+
+  nav  {
+    
+    top: 16px;
+    left: 16px;
+    font-size: 1.3rem;
+    
+  
+
+}
+
+nav a {
+
+  color:white;
+  font-weight: bold;
+  
+}
+
+.connexion-restaurant select {
+
+font-size: medium;
+font-family: sans-serif;
+height: 30px;
+float: right;
+font-weight: bold;
+
+}
+
+.connexion-livreur {
+
+  font-size: medium;
+  font-family: sans-serif;
+  height: 50px;
+  width: 100px;
+  float: right;
+  font-weight: bold;
+
+}
